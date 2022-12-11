@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Anwesha Das
-- 👀 I’m interested in Data science and analytics field...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Ai-ml enthusiast
+- 🌱 I’m currently learning and doing internship in ineuron
 - 📫 How to reach me ...
-
-<!---
-adas754/adas754 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Linkedin id-
+ https://www.linkedin.com/in/anwesha-das-983393201/
+ 

@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m Anwesha Das
 ## - 👀 I’m Ai-ml enthusiast
-## - 🌱 intern in ineuron
+## - 🌱 ineuron intern
 
 ##  - 📫 How to reach me ...
 

@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/anwesha-das-983393201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwesha-das-983393201" height="30" width="40" /></a>
 <a href="https://instagram.com/anweshadas754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anweshadas754" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@anweshadas7699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anweshadas7699" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anweshadas754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anweshadas754" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anweshadas7699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anweshadas7699" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anweshadas754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anweshadas754" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anweshadas754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anweshadas754" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adas754&show_icons=true&locale=en" alt="adas754" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adas754&" alt="adas754" /></p>
+
 
